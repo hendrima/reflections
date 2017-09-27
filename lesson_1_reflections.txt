@@ -1,0 +1,2 @@
+I was able to focus on what was changed and not waste time sorting thru code that had not changed.
+You we be able to try different solutions without the risk of not getting back to your working previous versions.

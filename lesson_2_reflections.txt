@@ -1,0 +1,3 @@
+the current state of the files in the directory are stored as the baseline.
+
+if you don't want to commit all the changes you've made in your working directory you can limit the files you add to the staging area that will get moved to the repository.
