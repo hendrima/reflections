@@ -3,3 +3,5 @@ the current state of the files in the directory are stored as the baseline.
 if you don't want to commit all the changes you've made in your working directory you can limit the files you add to the staging area that will get moved to the repository.
 
 how can you use the staging area to make sure you have one commit per logical change? -- you can compare the change to the code in the work area and the commited code to the staging area.
+
+Branches allow you to go out on a limb (hahahahaha) and not risk messing up the existing working code.
